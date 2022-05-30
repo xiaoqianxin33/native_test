@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/index"
+        android:icon="@android:drawable/ic_input_delete"
+        android:title="主页" />
+
+    <item
+        android:id="@+id/serach"
+        android:icon="@android:drawable/ic_menu_mapmode"
+        android:title="地图" />
+
+    <item
+        android:id="@+id/center"
+        android:icon="@android:drawable/ic_media_ff"
+        android:title="功能" />
+
+    <item
+        android:id="@+id/news"
+        android:icon="@android:drawable/ic_delete"
+        android:title="通讯" />
+
+    <item android:id="@+id/mine"
+        android:icon="@android:drawable/ic_btn_speak_now"
+        android:title="群组"
+        />
+</menu>
